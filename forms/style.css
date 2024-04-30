@@ -1,0 +1,21 @@
+.banner {
+    background-color: #4CAF50; /* Example color */
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.form-section {
+    margin-bottom: 10px;
+}
+
+.day-section {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.day-section h3 {
+    margin-top: 0;
+}
